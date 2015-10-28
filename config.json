@@ -1,0 +1,8 @@
+{
+	"endpoint": "http://10.1.10.212:7400/",
+	"cors": true,
+	"credentials": {
+	   "username": "admin",
+	   "password": "servicec13"
+	}
+}
